@@ -1,0 +1,1 @@
+hogwarts_rpg_adonisjs_api
